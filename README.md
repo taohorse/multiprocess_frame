@@ -10,6 +10,6 @@ a frame for python multiprocess to solve GIL
 * BasicWorkerControler<br>
   业务逻辑实现基类。
 # 使用说明：
-  用户只要继承各个类型，根据自己业务实现业务逻辑即可。可以参考main函数中的测试用例。
+  用户只要继承各个类，根据自己业务实现业务逻辑即可。可以参考main函数中的测试用例。
 
  
